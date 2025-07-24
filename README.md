@@ -5,7 +5,7 @@
 ## Features
 - Window creation via GLFW
 - Pixel-based coordinate system
-- Drawing primitives: rectangles, circles, lines
+- Drawing Shapes: rectangles, circles, lines
 - Mouse and keyboard input handling
 
 ## Installation
